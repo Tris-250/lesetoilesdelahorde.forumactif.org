@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Les Etoiles de la Horde</ShortName>
+	<Description>Les Etoiles de la Horde - Rechercher</Description>
+	<InputEncoding>utf-8</InputEncoding>
+	<Contact>https://lesetoilesdelahorde.forumactif.org</Contact>
+	<Image height="16" width="16" type="image/x-icon">https://illiweb.com/fa/favicon/discussion.ico</Image>
+	<Url type="text/html" method="get" template="https://lesetoilesdelahorde.forumactif.org/search.php?search_keywords={searchTerms}&amp;src={referrer:source?}" />
+	<UpdateInterval>7</UpdateInterval>
+	<UpdateUrl>https://lesetoilesdelahorde.forumactif.org/improvedsearch.xml</UpdateUrl>
+	<IconUpdateUrl>https://illiweb.com/fa/favicon/discussion.ico</IconUpdateUrl>
+	<moz:SearchForm>https://lesetoilesdelahorde.forumactif.org/search.forum</moz:SearchForm>
+</OpenSearchDescription>

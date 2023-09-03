@@ -1,0 +1,464 @@
+Uri: https://2img.net/i/empty.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\i\empty.gif
+Content Type: image/gif
+
+Uri: https://2img.net/i/fa/icon_mini_search.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\i\fa\icon_mini_search.gif
+Content Type: image/gif
+
+Uri: https://2img.net/i/fa/prosilver/icon_calendar2.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\i\fa\prosilver\icon_calendar2.gif
+Content Type: image/gif
+
+Uri: https://2img.net/s/t/16/86/42/i_icon_mini_gallery.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_icon_mini_gallery.png
+Content Type: image/png
+
+Uri: https://2img.net/s/t/16/86/42/i_icon_mini_index.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_icon_mini_index.png
+Content Type: image/png
+
+Uri: https://2img.net/s/t/16/86/42/i_icon_mini_login.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_icon_mini_login.png
+Content Type: image/png
+
+Uri: https://2img.net/s/t/16/86/42/i_icon_mini_portal.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_icon_mini_portal.png
+Content Type: image/png
+
+Uri: https://2img.net/s/t/16/86/42/i_icon_mini_register.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_icon_mini_register.png
+Content Type: image/png
+
+Uri: https://2img.net/s/t/16/86/42/i_icon_mini_search.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_icon_mini_search.png
+Content Type: image/png
+
+Uri: https://2img.net/s/t/16/86/42/i_logo.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_logo.gif
+Content Type: image/gif
+
+Uri: https://2img.net/s/t/16/86/42/i_up_arrow.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\s\t\16\86\42\i_up_arrow.png
+Content Type: image/png
+
+Uri: https://ac.audiencerun.com/j/tag.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\j\tag.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\ajax\libs\jquery\1.7.2\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cache.consentframework.com/js/pa/24697/c/IxWav/stub
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\js\pa\24697\c\IxWav\stub
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/jquery.form-validator.min.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\ajax\libs\jquery-form-validator\2.3.26\jquery.form-validator.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/theme-default.min.css
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\ajax\libs\jquery-form-validator\2.3.26\theme-default.min.css
+Content Type: text/css
+
+Uri: https://choices.consentframework.com/js/pa/24697/c/IxWav/cmp?lang=fr
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\js\pa\24697\c\IxWav\cmp
+Content Type: text/javascript
+
+Uri: https://hitsk.in/t/16/86/42/i_background.jpg
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\t\16\86\42\i_background.jpg
+Content Type: image/jpeg
+
+Uri: https://hitsk.in/t/16/86/42/i_back_title.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\t\16\86\42\i_back_title.gif
+Content Type: image/gif
+
+Uri: https://hitsk.in/t/16/86/42/i_icon_online.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\t\16\86\42\i_icon_online.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/addthis/60x60_atn_logo.jpg
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\60x60_atn_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://illiweb.com/fa/addthis/60x60_at_firefox_toolbar.jpg
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\60x60_at_firefox_toolbar.jpg
+Content Type: image/jpeg
+
+Uri: https://illiweb.com/fa/addthis/60x60_at_ie_toolbar.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\60x60_at_ie_toolbar.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/addthis/atbkg.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\atbkg.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/addthis/atf02.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\atf02.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/addthis/feed00.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\feed00.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/addthis/gmail.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\gmail.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/addthis/hotmail.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\hotmail.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/addthis/logo1414.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\logo1414.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/addthis/logo88.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\logo88.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/addthis/tab00.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\tab00.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/addthis/widget04.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\widget04.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/addthis/yahoo.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\addthis\yahoo.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/empty.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\empty.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/favicon/discussion.ico
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\favicon\discussion.ico
+Content Type: image/x-icon
+
+Uri: https://illiweb.com/fa/i/toolbar/pa0.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\i\toolbar\pa0.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/i/toolbar/toolbar.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\i\toolbar\toolbar.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/icon_notif.svg
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\icon_notif.svg
+Content Type: image/svg+xml
+
+Uri: https://illiweb.com/fa/icon_notif_off.svg
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\icon_notif_off.svg
+Content Type: image/svg+xml
+
+Uri: https://illiweb.com/fa/notifications/notifications.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\notifications\notifications.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/prosilver/bg_button.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\prosilver\bg_button.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/prosilver/icon_pages.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\prosilver\icon_pages.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/prosilver/quote.gif
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\prosilver\quote.gif
+Content Type: image/gif
+
+Uri: https://illiweb.com/fa/p_strength/pwd_bad.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\p_strength\pwd_bad.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/p_strength/pwd_good.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\p_strength\pwd_good.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/p_strength/pwd_middle.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\p_strength\pwd_middle.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/rss_mod/sprite_rss_feeds.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\rss_mod\sprite_rss_feeds.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/social_bookmarking/social_bookmarking_fa.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\social_bookmarking\social_bookmarking_fa.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/social_bookmarking/twitter.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\social_bookmarking\twitter.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/sprite_icons.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\sprite_icons.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/sprite_prosilver_menu.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\sprite_prosilver_menu.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/sprite_prosilver_navbar.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\sprite_prosilver_navbar.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/sprite_subsilver_menu.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\sprite_subsilver_menu.png
+Content Type: image/png
+
+Uri: https://illiweb.com/fa/wysiwyg/bg_button.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\fa\wysiwyg\bg_button.png
+Content Type: image/png
+
+Uri: https://illiweb.com/rs3/78/frm/colcade/colcade.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\colcade\colcade.js
+Content Type: application/x-javascript
+
+Uri: https://illiweb.com/rs3/78/frm/colcade/FA_ImageList.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\colcade\FA_ImageList.js
+Content Type: application/x-javascript
+
+Uri: https://illiweb.com/rs3/78/frm/extendedview.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\extendedview.js
+Content Type: application/x-javascript
+
+Uri: https://illiweb.com/rs3/78/frm/jquery/cookie/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\jquery\cookie\jquery.cookie.js
+Content Type: application/x-javascript
+
+Uri: https://illiweb.com/rs3/78/frm/lang/fr.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\lang\fr.js
+Content Type: application/x-javascript
+
+Uri: https://illiweb.com/rs3/78/frm/mentions/init.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\mentions\init.js
+Content Type: application/x-javascript
+
+Uri: https://illiweb.com/rs3/78/frm/mentions/tooltipster.css
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\mentions\tooltipster.css
+Content Type: text/css
+
+Uri: https://illiweb.com/rs3/78/frm/mentions/tooltipster.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\mentions\tooltipster.js
+Content Type: application/x-javascript
+
+Uri: https://illiweb.com/rs3/78/frm/twemoji/twemoji.min.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\rs3\78\frm\twemoji\twemoji.min.js
+Content Type: application/x-javascript
+
+Uri: https://lesetoilesdelahorde.forumactif.org/
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\index.htm
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/2-ltr.css
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\2-ltr.css
+Content Type: text/css
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2F&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Fimages&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-1.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Flogin%3Fredirect%3D%2Fcalendar%3Fstart%3D20230901&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-5.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Flogin%3Fredirect%3D%2Ffaq&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-9.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Flogin%3Fredirect%3D%2Fu31&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-6.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Flogin&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-4.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Fprivacy&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-8.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Fprofile%3Fmode%3Dsendpassword&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-10.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Fregister&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-3.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Fsearch&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-2.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/abuse?page=%2Fviewonline&report=1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\abuse-7.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=19618
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-6
+Content Type: image/jpg
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=31617
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-8
+Content Type: image/jpg
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=31673
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-5
+Content Type: image/jpg
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=31782
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=31818
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-1
+Content Type: image/jpg
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=31963
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-7
+Content Type: image/jpg
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=32012
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-2
+Content Type: image/jpg
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=32090
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-4
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/dx?a=32139
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\dx-3
+Content Type: image/jpg
+
+Uri: https://lesetoilesdelahorde.forumactif.org/feed/
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://lesetoilesdelahorde.forumactif.org/feed/?f=14
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lesetoilesdelahorde.forumactif.org/feed/?type=atom
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\feed\index-2.htm
+Content Type: application/atom+xml
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-114.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-114.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-120.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-120.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-144.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-144.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-152.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-152.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-167.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-167.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-180.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-180.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-57.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-57.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-60.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-60.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-72.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-72.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/images/icons-76.png
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\images\icons-76.png
+Content Type: image/png
+
+Uri: https://lesetoilesdelahorde.forumactif.org/improvedsearch.xml
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\improvedsearch.xml
+Content Type: application/opensearchdescription+xml
+
+Uri: https://lesetoilesdelahorde.forumactif.org/login
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\login.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/login?redirect=%2Fcalendar%3Fstart%3D20230901
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\login-1.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/login?redirect=%2Ffaq
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\login-3.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/login?redirect=%2Fu31
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\login-2.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/login?redirect=/calendar?start=20230901
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\login-4.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/login?redirect=/faq
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\login-6.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/login?redirect=/u31
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\login-5.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/manifest.json
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\manifest.json
+Content Type: application/json
+
+Uri: https://lesetoilesdelahorde.forumactif.org/privacy
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\privacy.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/profile?mode=sendpassword
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\profile.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/register
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\register.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/search
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\search.html
+Content Type: text/html
+
+Uri: https://lesetoilesdelahorde.forumactif.org/viewonline
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\viewonline.html
+Content Type: text/html
+
+Uri: https://static.criteo.net/js/ld/publishertag.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\js\ld\publishertag.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-144388882-1
+File Name: C:\Downloaded Web Sites\lesetoilesdelahorde.forumactif.org\gtag\js
+Content Type: application/javascript
+
